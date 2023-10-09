@@ -1,0 +1,31 @@
+footer{
+    .container{
+     position: relative;
+     ul{
+         display: flex;
+         justify-content: space-between;
+
+
+         li{
+         .logo{
+             width: 157px;
+             height: 92px;
+             position: absolute;
+             left: -10px;
+             bottom: 73px;
+         }
+         a{
+             color: #FFF;
+             font-size: 18px;
+             font-style: normal;
+             font-weight: 400;
+             line-height: 33.855px; 
+             font-family: Poppins;
+             display: block;
+             margin-bottom: 20px;
+         }
+         }
+
+     }
+    }
+ }
